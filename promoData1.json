@@ -1,0 +1,8 @@
+{
+  "promoPanel": {
+    "isActive": 1,
+    "iconPath": "path/to/icon.png",
+    "appName": "My Cool Game",
+    "gameLink": "https://example.com/game"
+  }
+}
